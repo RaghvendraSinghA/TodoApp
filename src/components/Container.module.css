@@ -1,0 +1,11 @@
+.ram {
+    margin-left: 500px;
+    margin-top: 100px;
+    text-align: center;
+    height: 500px;
+    width: 500px;
+    background-color: blanchedalmond;
+    border: 5px solid orange;
+    border-radius: 15px;
+    padding: 10px;
+}
